@@ -8,7 +8,7 @@
 [![Track](https://img.shields.io/badge/track-Sustainability-028090)]()
 [![Hackathon](https://img.shields.io/badge/hackathon-Build%20with%20AI%3A%20Code%20for%20Communities-00A896)]()
 
-**Live Prototype:** (https://clean-air-climate-re.com)](https://clean-air-climate-re-8w69.bolt.host/)
+👉 **Live Demo:** [https://clean-air-climate-re.com](https://clean-air-climate-re-8w69.bolt.host/)
 
 ---
 
