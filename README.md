@@ -67,8 +67,7 @@ This data is processed through Google's AI stack to detect hidden hotspots, fore
 - Public satellite and meteorological datasets
 
 **Platform**
-- Built and deployed via Bolt
-- Hosted at: https://clean-air-climate-re-8w69.bolt.host/
+- Deployed on Vercel
 
 ---
 
